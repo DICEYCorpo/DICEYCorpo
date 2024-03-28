@@ -3,15 +3,13 @@
 
 
 
-- 👯 I’m looking to collaborate on **ML/DL projects**
+- 👯 I’m looking to collaborate in AI integrations into Businesses and Startups to accelerate their productivity. 
 
-- 👨‍💻 All of my projects are available at [https://rafsanz.vercel.app/](https://rafsanz.vercel.app/)
-
-- 📫 How to reach me **rafsanzisan@gmail.com**
+- 📫 How to reach me **mqreaper8@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/rafsan-zamil-9114771b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rafsan-zamil-9114771b0/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tanzir1738/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tanzir1738/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -19,4 +17,4 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RafsanZamil&" alt="RafsanZamil" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RafsanZamil&" alt="Tanzir" /></p>
